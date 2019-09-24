@@ -65,5 +65,5 @@ target/
 .idea/
 
 
-known_people/
-known_people-test/
+/known_people
+/known_people-test
