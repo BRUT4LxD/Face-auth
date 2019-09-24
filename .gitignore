@@ -63,3 +63,7 @@ target/
 .python-version
 
 .idea/
+
+
+known_people/
+known_people-test/
